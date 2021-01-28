@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-This is a shells assignment page
+This is a shell assignment page
