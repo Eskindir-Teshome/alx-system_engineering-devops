@@ -1,0 +1,2 @@
+#!/bin/bash
+hail -n 1 ./iacta >> ./iacta
